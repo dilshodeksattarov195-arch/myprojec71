@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routercelete",
+        "uuid": 270865,
+        "checksum": "0sww"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
